@@ -3,8 +3,8 @@
 ## I'm a Front End Developer specialized in creating remarkable user interfaces for websites and games
 
 - I'm currently looking for interesting and challenging projects 😬
-- Bachelor of Science in Information Technology College Graduate 🌍
-- My hobbies are collecting nba cards, playing and watching basketball games and dancing. 😎
+- My hobbies are playing and watching basketball games and dancing. 😎
+- I also love collecting nba cards and watching one piece 😎
 
 My website - [reginaldbermillo.com](https://reginaldbermillo.com/)
 
