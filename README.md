@@ -6,7 +6,7 @@
 - My hobbies are playing and watching basketball games, dancing and watching one piece. 😎
 - I also love collecting Kobe Bryant nba cards, memorabilia and jersey 😎
 
-My website - [reginaldbermillo.com](https://reginaldbermillo.com/)
+Portfolio Website - [reginaldbermillo.com](https://reginaldbermillo.com/)
 
 
 ### Connect with me:
