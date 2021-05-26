@@ -2,7 +2,7 @@
 
 ## I'm a Front End Developer specialized in creating remarkable user interfaces for websites and games
 
-- I'm currently looking for interesting and challenging projects 😬
+- I'm currently looking for interesting and challenging projects particularly in React.js and Node.js 😬
 - My hobbies are playing and watching basketball games, dancing and watching one piece. 😎
 - I also love collecting Kobe Bryant nba cards, memorabilia and jersey 😎
 
