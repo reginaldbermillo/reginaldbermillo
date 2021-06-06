@@ -3,7 +3,7 @@
 ## I'm a Front End Developer specialized in creating remarkable user interfaces for websites and games
 
 - I'm currently looking for exceptional and challenging projects particularly in React.js and Node.js 😬
-- My hobbies are playing and watching basketball games, dancing and watching one piece. 😎
+- My hobbies are playing basketball and swimming, watching NBA games, dancing and watching one piece. 😎
 - I also love collecting Kobe Bryant NBA cards, memorabilia, action figures and basketball jersey 😎
 
 Portfolio Website - [reginaldbermillo.com](https://reginaldbermillo.com/)
