@@ -2,7 +2,7 @@
 
 ### I'm a Front End Developer specialized in creating remarkable user interfaces for websites and games
 
-- I'm currently looking for exceptional and challenging projects especially in React, Next.js and Node.js 😬
+- I'm currently looking for exceptional and challenging projects especially in React, Next and Node.js 😬
 - My hobbies are playing basketball and swimming, watching NBA games, dancing and watching one piece. 😎
 - I also love collecting Kobe Bryant NBA cards, memorabilia, action figures and basketball jerseys 😎
 
