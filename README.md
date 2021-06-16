@@ -18,6 +18,7 @@ Portfolio Website - [reginaldbermillo.com](https://reginaldbermillo.com/)
 [<img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/a4aa18dbd7b01ed19ac8a19a7f49eb1f6e56e829/images/svg/youtube.svg" />][youtube]
 
 <br />
+<br />
 
 ### Technical Skills and Tools:
 
