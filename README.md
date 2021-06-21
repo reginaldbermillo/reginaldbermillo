@@ -4,7 +4,7 @@
 
 - I'm currently looking for projects especially in React, Next and Node.js / Express 😬
 - My hobbies are playing basketball, watching NBA games, dancing and watching one piece anime.😎
-- I also love collecting Kobe Bryant NBA cards, memorabilia and basketball jerseys 😎
+- I also love collecting Kobe Bryant NBA cards, memorabilia and basketball jersey 😎
 
 Portfolio Website - [reginaldbermillo.com](https://reginaldbermillo.com/)
 
