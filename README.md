@@ -3,6 +3,7 @@
 ### I'm a Front End Developer specialized in creating remarkable user interfaces for websites and games
 
 - I'm currently looking for projects especially in React, Next and Node.js / Express 😬
+- As of the moment I'm studying mobile development using React Native.
 - My hobbies are playing basketball, watching NBA games, dancing and watching One Piece anime.😎
 - I'm also an avid fan of Kobe Bryant and I love collecting nba trading cards, memorabilia and basketball jersey of the Black Mamba 😎
 
