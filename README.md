@@ -5,7 +5,7 @@
 - I'm currently looking for projects especially in React, Next and Node.js / Express 😬
 - As of the moment I'm studying mobile development with React Native.
 - My hobbies are playing basketball, watching NBA games, dancing and watching One Piece anime.😎
-- I'm also an avid fan of Kobe Bryant and I love collecting nba trading cards, memorabilia and basketball jersey of the Black Mamba 😎
+- I'm also an avid fan of Kobe Bryant and I love collecting rare nba trading cards, memorabilia and basketball jersey of the Black Mamba 😎
 
 Portfolio Personal Website - [reginaldbermillo.com](https://reginaldbermillo.com/)
 
