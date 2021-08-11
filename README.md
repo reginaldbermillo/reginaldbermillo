@@ -1,6 +1,6 @@
 ### Hello 👋 I'm Reginald Josef Bermillo
 
-### I'm a Front End Developer specialized in creating remarkable user interfaces for websites and games
+### I'm a Software Engineer specialized in creating remarkable websites and applications
 
 - I'm currently looking for projects especially in React and Node.js 😬
 - As of the moment I'm studying Typescript and GraphQL.
