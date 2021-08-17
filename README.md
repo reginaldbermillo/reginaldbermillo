@@ -7,7 +7,7 @@
 - My hobbies are playing basketball, watching NBA games and One Piece.😎
 - I'm also an avid fan of Kobe Bryant and I love collecting rare and autograph nba cards and basketball jersey of the Black Mamba 😎
 
-Portfolio Personal Website - [reginaldbermillo.com](https://reginaldbermillo.com/)
+Portfolio Website - [reginaldbermillo.com](https://reginaldbermillo.com/)
 
 
 ### Connect with me:
