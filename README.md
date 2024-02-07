@@ -8,7 +8,7 @@
 - I'm also an avid fan of Kobe Bryant and love collecting autograph nba cards and basketball jersey of the Black Mamba. 😎       
         
 Portfolio Website - [reginaldbermillo.vercel.app](https://reginaldbermillo.vercel.app/) 
-    
+     
 
 ### Connect with me:
 
