@@ -1,4 +1,4 @@
-Y
+
 ### Hello 👋 I'm Reginald Josef Bermillo
 
 ### I'm a Software Engineer specialized in creating remarkable websites and applications 
