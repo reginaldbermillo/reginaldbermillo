@@ -2,7 +2,7 @@
 
 ### Hello 👋 I'm Reginald Josef Bermillo
 
-### I'm a Software Engineer specialized in creating remarkable websites and applications                                                                                                                                                              
+### I'm a Software Engineer specialized in creating remarkable websites and applications                                                                                                                                                               
                
 - I'm currently looking for projects especially in React Next.js Typescript and Node.js 😬                                                                                                                           
 - My hobbies are playing basketball, watching NBA games and One Piece Anime.😎                                                                                           
