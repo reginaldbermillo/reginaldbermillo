@@ -5,7 +5,7 @@
 ### I'm a Software Engineer specialized in creating remarkable websites and applications                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 - I'm currently looking for projects especially in React Next.js Typescript and Node.js 😬                                                                                                                                     
 - My hobbies are playing basketball, watching NBA games and One Piece Anime.😎                                                                                           
-- I'm also an avid fan of Kobe Bryant and love collecting autograph nba cards and basketball jersey of the Black Mamba. 😎            
+- I'm also an avid fan of Kobe Bryant and love collecting autograph nba cards and basketball jersey of the Black Mamba. 😎          
                                                                                                             
 Portfolio Website - [reginaldbermillo.vercel.app](https://reginaldbermillo.vercel.app/) 
      
