@@ -5,7 +5,7 @@
 - I'm currently looking for projects especially in React Next.js Typescript and Node.js 😬          
 - My hobbies are playing basketball, watching NBA games and One Piece Anime.😎          
 - I'm also an avid fan of Kobe Bryant and love collecting autograph NBA cards and basketball jersey of the Black Mamba. 😬                               
-- I also love collecting autograph and memorabilia of the Top 75 players of all time. The GOATS! 😎                    
+- I also love collecting autograph and memorabilia of the NBA Top 75 players of all time. The GOATS! 😎                    
                                                                                                             
 Portfolio Website - [reginaldbermillo.vercel.app](https://reginaldbermillo.vercel.app/) 
      
